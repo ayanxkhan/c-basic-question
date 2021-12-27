@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,c=0;
+    int a,b;
+    int c=0;
     printf("enter two numbers:");
     scanf("%d %d",&a,&b);
     c=a+b;
